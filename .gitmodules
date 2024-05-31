@@ -1,0 +1,3 @@
+[submodule "GroceryStoreDataset"]
+	path = GroceryStoreDataset
+	url = https://github.com/marcusklasson/GroceryStoreDataset.git

@@ -163,3 +163,5 @@ cython_debug/
 # GroceryStoreDataset
 
 logs/
+
+train_dset.pt

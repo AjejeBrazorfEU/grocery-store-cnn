@@ -163,5 +163,6 @@ cython_debug/
 # GroceryStoreDataset
 
 logs/
+checkpoints/
 
 train_dset.pt

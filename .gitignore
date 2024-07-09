@@ -162,7 +162,7 @@ cython_debug/
 #.idea/
 # GroceryStoreDataset
 
-logs/
-checkpoints/
+logs*/
+checkpoints*/
 
 train_dset.pt

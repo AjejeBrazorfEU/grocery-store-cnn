@@ -1,23 +1,23 @@
-# grocery-store-cnn
+# Grocery Store CNN
 
-This repo contains the code for the project of the course "Image Processing and Computer Vision" for the AI Master at the University of Bologna. The project consists in the classification of images of products in a grocery store dataset using Convolutional Neural Networks.
+This repo contains the code of the project for the course "Image Processing and Computer Vision" of the Master in AI at the University of Bologna. The project consists in classifying images of products in the [Grocery Store Dataset](https://github.com/marcusklasson/GroceryStoreDataset) using Convolutional Neural Networks.
 
-The project is divided in 2 parts:
+The project is divided into 2 parts:
 
-- Build a CNN from scratch
+- Build a CNN from scratch.
 - Use a pre-trained model (ResNet18) and fine-tune it.
 
 ## Content
 
-The project is inside the file `assignment_module_2.ipynb`. The dataset is in the folder `grocery_store_dataset`.
+The project is inside the file `assignment_module_2.ipynb`. The dataset is in the directory `grocery_store_dataset`.
 
 ## Model
 
-To see the full model specification see the file `assignment_module_2.ipynb`. Here you can also find all the experminets done and the results.
+To see the full model specification, see the file `assignment_module_2.ipynb`. Here you can also find all the experiments done and the results.
 
 ## Extra
 
-This project is for the module 2 of the course. To see to project for the module 1 see the repo [opencv-instance-detection](https://github.com/NotXia/opencv-instance-detection).
+This project is for the 2nd module of the course. The project for the 1st module is at the repo [opencv-instance-detection](https://github.com/NotXia/opencv-instance-detection).
 
 ## Members
 
